@@ -9,7 +9,7 @@ The Linking Open Vocabularies (LOV) project plays a vital role in the structured
 We utilize the LOV N-quad Ontology dataset to build a Knowledge Graph and interact with LLMs, specifically gpt-3.5-turbo. The RDFlib Python library handles the loading of data into memory, while our system leverages the LLM's reasoning to assess and score relevant concepts.
 
 ## Project Structure
-
+```
 ./
 ├── LICENSE
 ├── README.md
@@ -20,7 +20,7 @@ We utilize the LOV N-quad Ontology dataset to build a Knowledge Graph and intera
 ├── lov_valid.nq
 ├── project_structure.txt
 └── prompt_list.py
-
+```
 
 ## Installation
 
