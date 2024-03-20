@@ -52,6 +52,6 @@ python lov_main.py
 ```
 Follow the prompts to input your queries.
 
-Architecture
+Workflow
 ![Architecture Diagram](doc/LOV_LLM.drawio.png "Architecture Diagram")
 
