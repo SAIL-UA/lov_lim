@@ -11,13 +11,13 @@ We utilize the LOV N-quad Ontology dataset to build a Knowledge Graph and intera
 ## Project Structure
 ```
 ./
-├── LICENSE
-├── README.md
-├── config.ini
-├── gpt_utils.py
-├── kg_func.py
-├── lov_main.py
-├── lov_valid.nq
+├── LICENSE                 
+├── README.md                   
+├── config.ini              <-Configuaration such as OpenAI key
+├── gpt_utils.py            <-Operations on LLM
+├── kg_func.py              <-Operations on LOV (KG)
+├── lov_main.py             <-Entrance of the project
+├── lov_valid.nq            <-Cleaned LOV N-quad Data Dump
 ├── project_structure.txt
 └── prompt_list.py
 ```
