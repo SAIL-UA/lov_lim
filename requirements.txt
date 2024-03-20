@@ -1,0 +1,6 @@
+neo4j==5.14.0
+numpy==1.26.4
+openai==1.11.1
+rdflib==7.0.0
+rdflib-neo4j==1.0
+
