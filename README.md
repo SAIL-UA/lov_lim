@@ -53,6 +53,5 @@ python lov_main.py
 Follow the prompts to input your queries.
 
 Architecture
-To view the architecture of the project, see architecture.png in the repository.
 ![Architecture Diagram](doc/LOV_LLM.drawio.png "Architecture Diagram")
 
