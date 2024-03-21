@@ -45,6 +45,11 @@ pip install -r requirements.txt
 ```
 
 Usage
+Fill a valid OpenAI token in the config.ini file.
+```
+key=your_openai_key
+```
+
 Run the main script to start the query service:
 
 ```bash
